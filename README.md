@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-el-eliem">LinkedIn</a> &nbsp;&middot;&nbsp;
   <a href="mailto:med.eleliem@gmail.com">Email</a> &nbsp;&middot;&nbsp;
+  <a href="https://medeleliem.github.io/">Portfolio</a> &nbsp;&middot;&nbsp;
   <a href="https://github.com/MedEleliem?tab=repositories">Projects</a>
 </p>
 
